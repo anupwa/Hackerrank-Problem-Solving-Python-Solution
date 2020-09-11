@@ -1,1 +1,1 @@
-# Hackerrank-Problem-Solving-Python-Solution
+Solve the Triplets
